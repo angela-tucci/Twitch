@@ -1,0 +1,31 @@
+body {
+	margin: 10px;
+	padding: 0;
+	max-width: 100%;
+}
+
+#container {
+	vertical-align: middle;
+}
+
+img {
+	padding: 5px;
+}
+
+#twitchLogo {
+	text-align: center;
+}
+
+#streams{
+	margin-top:20px;
+	border: 2px solid black;
+	margin:10px;
+}
+
+.stream {
+	display:block;
+}
+
+img {
+	padding-right: 5px;
+}
